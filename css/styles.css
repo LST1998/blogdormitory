@@ -1,0 +1,67 @@
+body{
+    background-color:#FFFFFF;   
+}
+
+form {
+    padding: 20px;
+}
+
+.btn-add {
+    margin:1.5% 30%;
+    background-color: #696969;
+    border: #696969 1px solid;
+    padding: 6px 20px;
+    color: #FFFFFF;
+    border-radius: 4px;
+}
+
+.form-container{
+    margin: 10% auto;
+    width:30%;
+    border: #A9A9A9 2px solid;
+    padding: 20px 40px;
+    border-radius: 4px;
+
+}
+
+
+.box-container {
+    margin: 1.5% 30%;
+    border: #696969 2px solid;
+    width:40%;
+    height:35%;
+    padding: 1% 2%;
+    border-radius: 4px;
+}
+
+.title {
+    margin: 10px 0px 20px 0px;
+    
+   }
+
+.content {
+    margin-bottom: 20px;
+}
+
+.name {
+    background-color: #696969;
+    display: inline;
+    float: left;
+    border: #696969 1px solid;
+    padding: 5px 20px;
+    color: #FFFFFF;
+    border-radius: 4px;
+
+}
+
+.action .btn-action{
+    background-color: 696969;
+    border: #696969 1px solid;
+    padding: 5px 20px;
+    color: #FFFFFF;
+    border-radius: 4px;
+}
+
+.action {
+    float: right;
+}
